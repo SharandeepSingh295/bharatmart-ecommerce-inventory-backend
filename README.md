@@ -1,8 +1,11 @@
 # BharatMart – E-Commerce & Inventory Management REST API
 
 A modular, production-ready backend application built with **Node.js**, **Express**, and persistent **SQLite** for managing e-commerce catalogs, inventory stock, shopping carts, user authentication, and checkout order processing.
-
+ 
 Developed specifically for the **ShadowFox Backend Developer Internship (Intermediate Level)**.
+
+🌐 **Live Deployed API (Production):** [https://bharatmart-ecommerce-api.onrender.com](https://bharatmart-ecommerce-api.onrender.com)  
+📡 **Live Health Check:** [https://bharatmart-ecommerce-api.onrender.com/api/v1/health](https://bharatmart-ecommerce-api.onrender.com/api/v1/health)
 
 ---
 
